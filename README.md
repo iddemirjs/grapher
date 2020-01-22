@@ -1,4 +1,7 @@
 # Project: Grapher
+Dokuz Eylül University
+
+Project Based Learning Lesson Pratical Project Dec. 2019 
 
 The aim of the project is to develop a graph application.
 
@@ -19,6 +22,8 @@ connected points. Rmin matrix gives the minimum number of steps required for goi
 5. Calculate Rmin matrix which shows the minimum number of steps required for going point a to point b.
 6. Save R, R2, R3, ... , Rn, R* and Rmin matrices to the "matrix.txt" file. 
 
+![GitHub Logo](bin/Debug/netcoreapp3.0/orGr.png)
+
 **Keyboard Commands**
 
  **Drawing Keys:**
@@ -37,3 +42,6 @@ connected points. Rmin matrix gives the minimum number of steps required for goi
 
 **Query key:** 
  * Q : Takes 2 nodes (a and b), and returns min number of steps required for going node a to node b. 
+ 
+![GitHub Logo](bin/Debug/netcoreapp3.0/vr.png)
+ 
