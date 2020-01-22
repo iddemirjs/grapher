@@ -1,0 +1,11 @@
+C:\Users\idris\OneDrive\DEU\DeuCodes\CSharp\Grapher\Grapher\bin\Debug\netcoreapp3.0\Grapher.exe
+C:\Users\idris\OneDrive\DEU\DeuCodes\CSharp\Grapher\Grapher\bin\Debug\netcoreapp3.0\Grapher.deps.json
+C:\Users\idris\OneDrive\DEU\DeuCodes\CSharp\Grapher\Grapher\bin\Debug\netcoreapp3.0\Grapher.runtimeconfig.json
+C:\Users\idris\OneDrive\DEU\DeuCodes\CSharp\Grapher\Grapher\bin\Debug\netcoreapp3.0\Grapher.runtimeconfig.dev.json
+C:\Users\idris\OneDrive\DEU\DeuCodes\CSharp\Grapher\Grapher\bin\Debug\netcoreapp3.0\Grapher.dll
+C:\Users\idris\OneDrive\DEU\DeuCodes\CSharp\Grapher\Grapher\bin\Debug\netcoreapp3.0\Grapher.pdb
+C:\Users\idris\OneDrive\DEU\DeuCodes\CSharp\Grapher\Grapher\obj\Debug\netcoreapp3.0\Grapher.csprojAssemblyReference.cache
+C:\Users\idris\OneDrive\DEU\DeuCodes\CSharp\Grapher\Grapher\obj\Debug\netcoreapp3.0\Grapher.AssemblyInfoInputs.cache
+C:\Users\idris\OneDrive\DEU\DeuCodes\CSharp\Grapher\Grapher\obj\Debug\netcoreapp3.0\Grapher.AssemblyInfo.cs
+C:\Users\idris\OneDrive\DEU\DeuCodes\CSharp\Grapher\Grapher\obj\Debug\netcoreapp3.0\Grapher.dll
+C:\Users\idris\OneDrive\DEU\DeuCodes\CSharp\Grapher\Grapher\obj\Debug\netcoreapp3.0\Grapher.pdb
